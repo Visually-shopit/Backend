@@ -1,0 +1,8 @@
+db.sqlite3
+main/__pycache__/*
+shopitbackend/__pycache__/*
+*.pyc
+.DS_Store
+main/__pycache__/.DS_Store
+templates/.DS_Store
+main/migrations/.DS_Store
